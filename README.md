@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there 👋
+
+🌱 Pre-doc preparing for PhD application 2021 fall. Ex Master from TAMU CSE.
+
+🔭 Program analysis, concurrency, and any other interesting topics related to PL.
+
+📫 My [CV], [profile] and a [recent project] I'm working on.
 
 <!--
 **funemy/funemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+ [profile]: https://liyz.pl
+ [CV]: https://liyz.pl/index/cv-yanzeli.pdf
+ [recent project]: https://coderrect.com/
+
