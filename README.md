@@ -4,7 +4,7 @@ Hi there 👋
 
 🔭 Program verification, static analysis, concurrency, and any other interesting topics related to PL.
 
-📫 My [website] and a [recent project] I'm working on.
+📫 My [CV] and [website].
 
 <!--
 **funemy/funemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 
  [website]: https://liyz.pl
  [CV]: https://liyz.pl/index/cv-yanzeli.pdf
- [recent project]: https://coderrect.com/
 
