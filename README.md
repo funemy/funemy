@@ -1,6 +1,6 @@
 Hi there 👋
 
-🌱 Incoming PhD student [@UBC-SPL](https://spl.cs.ubc.ca/index.html). Ex Master from TAMU CSE.
+🌱 PhD student [@UBC-SPL](https://spl.cs.ubc.ca/index.html). Ex Master from TAMU CSE.
 
 🔭 Program verification, static analysis, concurrency, and any other interesting topics related to PL.
 
