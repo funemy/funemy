@@ -2,7 +2,7 @@ Hi there 👋
 
 🌱 PhD student [@UBC-SPL](https://spl.cs.ubc.ca/index.html). Ex Master from TAMU CSE.
 
-🔭 Program verification, static analysis, type theory, distributed system, mathematical logic, and generally everything related to PL.
+🔭 Program verification, static analysis, type theory, distributed system, mathematical logic, and generally anything related to PL.
 
 📫 My [website].
 
